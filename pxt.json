@@ -1,10 +1,12 @@
 {
-    "name": "465984562",
+    "name": "制作安全小闸门",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-nezha": "github:elecfreaks/pxt-nezha#v1.3.6",
+        "pxt-PlanetX": "github:elecfreaks/pxt-planetx#v1.4.5"
     },
     "files": [
         "main.blocks",
